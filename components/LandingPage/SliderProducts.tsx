@@ -10,7 +10,6 @@ import SpecialTitle from "../SpecialTitle";
 import Image from "next/image";
 import { RiStarSFill } from "react-icons/ri";
 import { Button } from "../ui/button";
-import { FaArrowLeft } from "react-icons/fa";
 import product1 from "../../app/img/products/Frame2.png";
 import product2 from "../../app/img/products/Frame.png";
 import product3 from "../../app/img/products/Frame1.png";

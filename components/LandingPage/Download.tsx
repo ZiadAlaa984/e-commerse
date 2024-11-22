@@ -7,7 +7,6 @@ import icon1 from "../../app/img/dowload/icon1.png";
 import icon2 from "../../app/img/dowload/icon2.png";
 import icon3 from "../../app/img/dowload/icon3.png";
 import Image from "next/image";
-import SpecialTitle from "../SpecialTitle";
 import { motion, useInView } from "framer-motion";
 
 export default function Download() {
@@ -48,7 +47,7 @@ export default function Download() {
 
             <div className="w-[68px] h-[69px] bg-[#434343] absolute translate-x-1/2 -translate-y-1/4 rounded-full right-0"></div>
 
-            <span className="relative z-10">قم بتحميل التطبيق الخاص بنا"</span>
+            <span className="relative z-10">قم بتحميل التطبيق الخاص بنا</span>
           </h2>
           <p className="text-[14px] text-white max-w-xl text-center font-light">
             حمّل تطبيقنا مجاناً الآن لتجربة تسوق مبتكرة وسهلة أينما كنت. استمتع

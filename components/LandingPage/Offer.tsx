@@ -50,7 +50,7 @@ export default function Offer() {
                   <h3 className="text-[40px] text-white font-bold"> 30%خصم</h3>
                   <p className="text-opacity-80 text-white uppercase leading-tight text-[14px]">
                     استمتع بألذ النكهات الصحية والطبيعية بأسعار لا تُقاوم اطلب
-                    الآن ووفّر في كل وجبة!"
+                    الآن ووفّر في كل وجبة!
                   </p>
                   <div>
                     <Button>احصل علي العرض</Button>
@@ -109,7 +109,7 @@ export default function Offer() {
                 <h3 className="text-[40px] text-white font-bold"> 30%خصم</h3>
                 <p className="text-opacity-80 text-white uppercase leading-tight text-[14px]">
                   استمتع بألذ النكهات الصحية والطبيعية بأسعار لا تُقاوم اطلب
-                  الآن ووفّر في كل وجبة!"
+                  الآن ووفّر في كل وجبة!
                 </p>
                 <div>
                   <Button>احصل علي العرض</Button>
